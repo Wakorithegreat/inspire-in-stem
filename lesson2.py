@@ -10,12 +10,10 @@ year_of_birth = 2003
 #strings
 
 my_first_name = "john"
-my_second_name = "wakori
+my_second_name = "wakori"
 
 favorite_food = "prime"
 schoolAttended="mfa"
-
-
 print(" i am " + my_first_name)
 print(" i am" + str(no_of_sibling))
 print(" i am " + str(age) +"years old")

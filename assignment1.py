@@ -1,5 +1,5 @@
 
-fom = PI * enter radius of circle *
+fom = PI * enter radius_of_circle *
 print("area of the circle is" + str(fom))
 
 #volume
