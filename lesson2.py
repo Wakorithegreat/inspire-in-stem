@@ -1,16 +1,18 @@
-#my age
+("my age")
 
+age = 18
 
-age=18
-no_of_sibling=4
+no_of_sibling = 4
 
-date_of_birth=17
-year_of_birth=2003
+date_of_birth = 17
+year_of_birth = 2003
+ 
+#strings
 
-my_first_name="john"
-my_second_name="wakori
+my_first_name = "john"
+my_second_name = "wakori
 
-favorite_food="prime"
+favorite_food = "prime"
 schoolAttended="mfa"
 
 
