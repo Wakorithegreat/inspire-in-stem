@@ -1,0 +1,5 @@
+('Hello world')
+print ("my name is john wakori")
+print("i am from nairobi")
+print("i am a kenyan")
+print("i like gaming")
