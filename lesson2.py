@@ -1,7 +1,5 @@
 #my age
 
-from typing import get_origin
-
 
 age=18
 no_of_sibling=4
