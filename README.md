@@ -22,7 +22,9 @@ strings
    lower()
    len()
 
-
+LISTS 
+how to create a list
+add element to list
 ## week 2 : electronic for inovators
 
 ## week 3: introduction to robotics

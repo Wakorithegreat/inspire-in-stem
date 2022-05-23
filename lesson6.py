@@ -21,8 +21,8 @@ popped_motorcycle = motorcycle.pop()
 #print("my name is {} and i own a {} with plate number {} " . format(motorcycle_owner,motorcycle[0], plate_number[0]))
 
 #removing n iten from a list
-motorcycle.remove('yamaha')
-print(motorcycle)
+#motorcycle.remove('yamaha')
+#print(motorcycle)
 
-
-
+print(motorcycle[-1])
+motorcycle[1] = "duggati"
