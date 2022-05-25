@@ -1,4 +1,16 @@
 ### inspire youth in stem
+git commands
+git add *
+git add lesson4.py 
+git commit -m "lesson5.py"
+git branch -m main
+
+git config --global user.name "john wakori"
+git config --global user.email "jkwakori@gmail.com"
+
+git remote add main
+git push main
+
 
 ## week 1 : introduction to python
 day 1 : installing python 
