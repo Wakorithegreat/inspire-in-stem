@@ -21,15 +21,5 @@ del person['phone_number']
 #lopping over adictionaries
 for key , value in person.items():
     #print(f'{key}:{value}')
-
- colors = ["red","green","blue","purple"]
-i = 0
-while i < len(colors):
-    if (colors[0] == 'green'):
-        print(colors[0].upper())
-        i += 1 #this closes the loop ,so that the value is not run many times 
-
-for color in colors:
-    if(colors[0] == "red"):
-        print(colors[0].upper())
-        i += 1
+ # print(person.get('location','the location key is non existent'))
+#using get to access value in adictionary
