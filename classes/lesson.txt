@@ -1,0 +1,3 @@
+this is anormal text file 
+learning python is fun
+today is a cool day
